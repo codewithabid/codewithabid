@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on Making Bots Like, Discord Bot, Telegram Bot, Twitter Bot, Automation using Python.
 - 📫 How to reach me ...
 - Business E-mail: codewithabid@gmail.com
-- Telegram : @abid982
-- Instagram : @abid982
+- Telegram : https://t.me/abid982
+- Instagram : https://instagram.com/abid982
 - Discord : White Wolf#6170
 
 <!---
